@@ -267,6 +267,7 @@ export default function Home() {
                 <li><Link to="/" className="text-gray-400 hover:text-white transition-colors">Home</Link></li>
                 <li><Link to="/events" className="text-gray-400 hover:text-white transition-colors">Events</Link></li>
                 <li><Link to="/about" className="text-gray-400 hover:text-white transition-colors">About Us</Link></li>
+                <li><Link to="/admin" className="text-gray-400 hover:text-white transition-colors">Admin</Link></li>
               </ul>
             </div>
             <div>

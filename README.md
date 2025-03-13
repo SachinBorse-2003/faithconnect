@@ -4,7 +4,7 @@ A React web application that connects people of all faiths through events and co
 
 ## Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://faithconnect-snowy.vercel.app/)
 
 ## Features
 
@@ -50,7 +50,7 @@ A React web application that connects people of all faiths through events and co
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/faith-connect.git
+   git clone https://github.com/SachinBorse-2003/faithconnect
    cd faith-connect
    ```
 

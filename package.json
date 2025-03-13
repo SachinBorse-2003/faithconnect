@@ -31,5 +31,8 @@
     "postcss": "^8.5.3",
     "tailwindcss": "^4.0.13",
     "vite": "^6.2.0"
-  }
+  },
+  "resolutions": {
+  "rollup": "npm:@rollup/wasm-node"
+}
 }
