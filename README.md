@@ -51,7 +51,7 @@ A React web application that connects people of all faiths through events and co
 1. Clone the repository:
    ```
    git clone https://github.com/SachinBorse-2003/faithconnect
-   cd faith-connect
+   cd faithconnect
    ```
 
 2. Install dependencies:
